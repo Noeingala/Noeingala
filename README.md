@@ -1,5 +1,5 @@
 
-![octo-nyan-cat-28df089159799fb0](https://user-images.githubusercontent.com/97459559/179778704-c34de97a-c21c-4df9-9411-0ff812a85ae3.gif)
+![portada](https://user-images.githubusercontent.com/97459559/180097474-8ff71db6-a86a-4122-beee-f55b21d65e30.jpg)
 ## Hola! Soy Noe! 👋
 - Tengo 35 años, de Salta - Argentina. Soy Diseñadora Gráfica y Desarrolladora web full stack,con orientacion al front-end. Tengo gran capacidad de adaptación, compromiso, dedicación para el trabajo en equipo, curiosa, creativa, siempre dispuesta a enseñar y a aprender de los demas.
 ### Front-end:
